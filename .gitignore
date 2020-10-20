@@ -1,0 +1,6 @@
+out/
+pkg/
+bin/
+vendor/
+*/vendor/
+.idea/
